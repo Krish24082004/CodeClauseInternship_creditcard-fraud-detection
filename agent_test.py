@@ -5,7 +5,7 @@ def detect_fraud(transaction):
     """Simple fraud detection placeholder."""
     if transaction['amount'] > 10000:
         return True 
-        else if it is true or not 
+        else if it is not true and if it is not false  
     return False
 
 if __name__ == "__main__":
