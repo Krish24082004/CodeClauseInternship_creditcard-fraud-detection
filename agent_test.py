@@ -3,7 +3,7 @@
 
 def detect_fraud(transaction):
     """Simple fraud detection placeholder."""
-    if transaction['amount'] > 10000:
+    if transaction['amount'] >     10000:
         return True
     return False
 
